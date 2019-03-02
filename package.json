@@ -1,0 +1,11 @@
+{
+  "name": "plunk",
+  "version": "1.0.0",
+  "description": ">The first step to upgrading an AngularJS application using the UpgradeModule is always to bootstrap it as a hybrid that supports both AngularJS and Angular, but still is an AngularJS app at top level.",
+  "main": "config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
